@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="class caliştirma">
+    <test name="farkli classları calişirma">
+        <classes>
+            <class name="tests.pages1"></class>
+            <class name="pages.VatanPage"></class>
+
+
+        </classes>
+
+
+    </test>
+
+
+</suite>
